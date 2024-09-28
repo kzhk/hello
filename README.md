@@ -6,3 +6,8 @@ This is hello.go .
 
 
 $x^2$
+
+$$
+x^2
+$$
+
